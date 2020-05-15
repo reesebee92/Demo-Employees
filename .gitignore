@@ -1,0 +1,6 @@
+Assignment 7
+
+This assignment will use the Employee class that you developed for assignment 6. Design two sub-classes of Employee…SalariedEmployee and HourlyEmployee. A salaried employee has an annual salary attribute. An hourly employee has an hourly pay rate attribute, an hours worked attribute, and an earnings attribute. An hourly employee that works more than 40 hours in a week gets paid at 1.5 times their hourly pay rate for the hours over 40 hours. You will decide how to implement constructors, getters, setters, and any other methods that might be necessary.
+
+1.	Draw a UML diagram for the classes.
+2.	Implement the classes, and write a test program that creates a salaried employee and two hourly employees. One of the hourly employees should have hours worked set to less than 40 and one should have hours worked set to more than 40. The test program should display all attributes for the three employees. To keep things simple, the employee classes don’t need to do any editing.
